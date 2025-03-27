@@ -1,0 +1,888 @@
+
+    
+{
+  "facts": [
+    {
+      "id": 1,
+      "question": "What is the capital city of Canada?",
+      "fact": "The capital city of Canada is Ottawa.",
+      "randomAnswer1": "The capital city of Canada is Toronto.",
+      "randomAnswer2": "The capital city of Canada is Montreal.",
+      "randomAnswer3": "The capital city of Canada is Vancouver."
+    },
+    {
+      "id": 2,
+      "question": "Which country has the world's longest coastline?",
+      "fact": "Canada has the world's longest coastline, spanning over 243,042 kilometers.",
+      "randomAnswer1": "Russia has the world's longest coastline.",
+      "randomAnswer2": "Australia has the world's longest coastline.",
+      "randomAnswer3": "United States has the world's longest coastline."
+    },
+    {
+      "id": 3,
+      "question": "Who is the current monarch of Canada?",
+      "fact": "The current monarch of Canada is Charles III.",
+      "randomAnswer1": "The current monarch of Canada is Queen Elizabeth II.",
+      "randomAnswer2": "The current monarch of Canada is King George VI.",
+      "randomAnswer3": "The current monarch of Canada is Prince William."
+    },
+    {
+      "id": 4,
+      "question": "When did Canada gain independence from the United Kingdom?",
+      "fact": "Canada gained independence from the United Kingdom with the Statute of Westminster in 1931 and the Canada Act in 1982.",
+      "randomAnswer1": "Canada gained independence in 1967.",
+      "randomAnswer2": "Canada gained independence with the Treaty of Paris in 1783.",
+      "randomAnswer3": "Canada gained independence in 1999."
+    },
+    {
+      "id": 5,
+      "question": "What is the national motto of Canada?",
+      "fact": "The national motto of Canada is 'A mari usque ad mare', which means 'From Sea to Sea'.",
+      "randomAnswer1": "The national motto of Canada is 'Unity in Diversity'.",
+      "randomAnswer2": "The national motto of Canada is 'Strength from Coast to Coast'.",
+      "randomAnswer3": "The national motto of Canada is 'In God We Trust'."
+    },
+    {
+      "id": 6,
+      "question": "What are the official languages of Canada?",
+      "fact": "The official languages of Canada are English and French.",
+      "randomAnswer1": "The official languages of Canada are English and Spanish.",
+      "randomAnswer2": "The official languages of Canada are French and German.",
+      "randomAnswer3": "The official languages of Canada are English and Mandarin."
+    },
+    {
+      "id": 7,
+      "question": "What is the population of Canada as of 2024?",
+      "fact": "The population of Canada as of 2024 is estimated to be 41,288,599.",
+      "randomAnswer1": "The population of Canada as of 2024 is estimated to be 30,000,000.",
+      "randomAnswer2": "The population of Canada as of 2024 is estimated to be 50,000,000.",
+      "randomAnswer3": "The population of Canada as of 2024 is estimated to be 60,000,000."
+    },
+    {
+      "id": 8,
+      "question": "Which ocean borders Canada to the west?",
+      "fact": "The Pacific Ocean borders Canada to the west.",
+      "randomAnswer1": "The Atlantic Ocean borders Canada to the west.",
+      "randomAnswer2": "The Arctic Ocean borders Canada to the west.",
+      "randomAnswer3": "The Indian Ocean borders Canada to the west."
+    },
+    {
+      "id": 9,
+      "question": "Which Canadian province is known as the 'Breadbasket of Canada'?",
+      "fact": "The province known as the 'Breadbasket of Canada' is Saskatchewan.",
+      "randomAnswer1": "The province known as the 'Breadbasket of Canada' is Alberta.",
+      "randomAnswer2": "The province known as the 'Breadbasket of Canada' is Manitoba.",
+      "randomAnswer3": "The province known as the 'Breadbasket of Canada' is Ontario."
+    },
+    {
+      "id": 10,
+      "question": "Which Canadian city hosted the 2010 Winter Olympics?",
+      "fact": "Vancouver hosted the 2010 Winter Olympics.",
+      "randomAnswer1": "Toronto hosted the 2010 Winter Olympics.",
+      "randomAnswer2": "Calgary hosted the 2010 Winter Olympics.",
+      "randomAnswer3": "Montreal hosted the 2010 Winter Olympics."
+    },
+    {
+      "id": 11,
+      "question": "What is the national animal of Canada?",
+      "fact": "The national animal of Canada is the beaver.",
+      "randomAnswer1": "The national animal of Canada is the moose.",
+      "randomAnswer2": "The national animal of Canada is the grizzly bear.",
+      "randomAnswer3": "The national animal of Canada is the wolf."
+    },
+    {
+      "id": 12,
+      "question": "What is the highest mountain in Canada?",
+      "fact": "The highest mountain in Canada is Mount Logan.",
+      "randomAnswer1": "The highest mountain in Canada is Mount Robson.",
+      "randomAnswer2": "The highest mountain in Canada is Mount Columbia.",
+      "randomAnswer3": "The highest mountain in Canada is Mount Fairweather."
+    },
+    {
+      "id": 13,
+      "question": "What is the official summer sport of Canada?",
+      "fact": "The official summer sport of Canada is lacrosse.",
+      "randomAnswer1": "The official summer sport of Canada is soccer.",
+      "randomAnswer2": "The official summer sport of Canada is baseball.",
+      "randomAnswer3": "The official summer sport of Canada is basketball."
+    },
+    {
+      "id": 14,
+      "question": "Which Canadian province is known for its French-speaking majority?",
+      "fact": "Quebec is known for its French-speaking majority.",
+      "randomAnswer1": "Ontario is known for its French-speaking majority.",
+      "randomAnswer2": "New Brunswick is known for its French-speaking majority.",
+      "randomAnswer3": "Manitoba is known for its French-speaking majority."
+    },
+    {
+      "id": 15,
+      "question": "What is the name of Canada's national police force?",
+      "fact": "The national police force of Canada is the Royal Canadian Mounted Police (RCMP).",
+      "randomAnswer1": "The national police force of Canada is the Canadian Security Intelligence Service (CSIS).",
+      "randomAnswer2": "The national police force of Canada is the Canadian Border Services Agency (CBSA).",
+      "randomAnswer3": "The national police force of Canada is the Ontario Provincial Police (OPP)."
+    },
+    {
+      "id": 16,
+      "question": "What is the most populous province in Canada?",
+      "fact": "The most populous province in Canada is Ontario.",
+      "randomAnswer1": "The most populous province in Canada is Quebec.",
+      "randomAnswer2": "The most populous province in Canada is British Columbia.",
+      "randomAnswer3": "The most populous province in Canada is Alberta."
+    },
+    {
+      "id": 17,
+      "question": "Which Canadian city is the largest by population?",
+      "fact": "The largest city in Canada by population is Toronto.",
+      "randomAnswer1": "The largest city in Canada by population is Vancouver.",
+      "randomAnswer2": "The largest city in Canada by population is Montreal.",
+      "randomAnswer3": "The largest city in Canada by population is Calgary."
+    },
+    {
+      "id": 18,
+      "question": "What is the currency of Canada?",
+      "fact": "The currency of Canada is the Canadian dollar (CAD).",
+      "randomAnswer1": "The currency of Canada is the US dollar (USD).",
+      "randomAnswer2": "The currency of Canada is the euro (EUR).",
+      "randomAnswer3": "The currency of Canada is the British pound (GBP)."
+    },
+    {
+      "id": 19,
+      "question": "Which province is the smallest by land area in Canada?",
+      "fact": "The smallest province by land area in Canada is Prince Edward Island.",
+      "randomAnswer1": "The smallest province by land area in Canada is Nova Scotia.",
+      "randomAnswer2": "The smallest province by land area in Canada is New Brunswick.",
+      "randomAnswer3": "The smallest province by land area in Canada is Newfoundland and Labrador."
+    },
+    {
+      "id": 20,
+      "question": "What is the capital city of Canada?",
+      "fact": "The capital city of Canada is Ottawa.",
+      "randomAnswer1": "The capital city of Canada is Toronto.",
+      "randomAnswer2": "The capital city of Canada is Vancouver.",
+      "randomAnswer3": "The capital city of Canada is Montreal."
+    },
+    {
+      "id": 21,
+      "question": "Which country has the world's longest coastline?",
+      "fact": "Canada has the world's longest coastline, spanning over 243,042 kilometers.",
+      "randomAnswer1": "Australia has the world's longest coastline.",
+      "randomAnswer2": "United States has the world's longest coastline.",
+      "randomAnswer3": "Russia has the world's longest coastline."
+    },
+    {
+      "id": 22,
+      "question": "Who is the current monarch of Canada?",
+      "fact": "The current monarch of Canada is Charles III.",
+      "randomAnswer1": "The current monarch of Canada is Queen Elizabeth II.",
+      "randomAnswer2": "The current monarch of Canada is King George.",
+      "randomAnswer3": "The current monarch of Canada is Prince William."
+    },
+    {
+      "id": 23,
+      "question": "What is the national animal of Canada?",
+      "fact": "The national animal of Canada is the beaver.",
+      "randomAnswer1": "The national animal of Canada is the moose.",
+      "randomAnswer2": "The national animal of Canada is the bear.",
+      "randomAnswer3": "The national animal of Canada is the wolf."
+    },
+    {
+      "id": 24,
+      "question": "What is the official summer sport of Canada?",
+      "fact": "The official summer sport of Canada is lacrosse.",
+      "randomAnswer1": "The official summer sport of Canada is soccer.",
+      "randomAnswer2": "The official summer sport of Canada is baseball.",
+      "randomAnswer3": "The official summer sport of Canada is cricket."
+    },
+    {
+      "id": 25,
+      "question": "What is the highest mountain in Canada?",
+      "fact": "The highest mountain in Canada is Mount Logan.",
+      "randomAnswer1": "The highest mountain in Canada is Mount Robson.",
+      "randomAnswer2": "The highest mountain in Canada is Mount Columbia.",
+      "randomAnswer3": "The highest mountain in Canada is Mount Fairweather."
+    },
+    {
+      "id": 26,
+      "question": "Which province is known as the 'Breadbasket of Canada'?",
+      "fact": "The province known as the 'Breadbasket of Canada' is Saskatchewan.",
+      "randomAnswer1": "The province known as the 'Breadbasket of Canada' is Alberta.",
+      "randomAnswer2": "The province known as the 'Breadbasket of Canada' is Manitoba.",
+      "randomAnswer3": "The province known as the 'Breadbasket of Canada' is Ontario."
+    },
+    {
+      "id": 27,
+      "question": "What is the population of Canada as of 2024?",
+      "fact": "The population of Canada as of 2024 is estimated to be 41,288,599.",
+      "randomAnswer1": "The population of Canada is 35,000,000.",
+      "randomAnswer2": "The population of Canada is 50,000,000.",
+      "randomAnswer3": "The population of Canada is 60,000,000."
+    },
+    {
+      "id": 28,
+      "question": "Which Canadian city hosted the 2010 Winter Olympics?",
+      "fact": "Vancouver hosted the 2010 Winter Olympics.",
+      "randomAnswer1": "Toronto hosted the 2010 Winter Olympics.",
+      "randomAnswer2": "Montreal hosted the 2010 Winter Olympics.",
+      "randomAnswer3": "Calgary hosted the 2010 Winter Olympics."
+    },
+    {
+      "id": 29,
+      "question": "Which province is the largest by area in Canada?",
+      "fact": "The largest province by area in Canada is Quebec.",
+      "randomAnswer1": "The largest province by area in Canada is Ontario.",
+      "randomAnswer2": "The largest province by area in Canada is British Columbia.",
+      "randomAnswer3": "The largest province by area in Canada is Alberta."
+    },
+    {
+      "id": 30,
+      "question": "What is the national motto of Canada?",
+      "fact": "The national motto of Canada is 'A mari usque ad mare', which means 'From Sea to Sea'.",
+      "randomAnswer1": "The national motto of Canada is 'Unity in Diversity'.",
+      "randomAnswer2": "The national motto of Canada is 'Strength from Coast to Coast'.",
+      "randomAnswer3": "The national motto of Canada is 'In God We Trust'."
+    },
+    {
+      "id": 31,
+      "question": "Which ocean borders Canada to the west?",
+      "fact": "The Pacific Ocean borders Canada to the west.",
+      "randomAnswer1": "The Atlantic Ocean borders Canada to the west.",
+      "randomAnswer2": "The Arctic Ocean borders Canada to the west.",
+      "randomAnswer3": "The Indian Ocean borders Canada to the west."
+    },
+    {
+      "id": 32,
+      "question": "Which province is the smallest by land area in Canada?",
+      "fact": "The smallest province by land area in Canada is Prince Edward Island.",
+      "randomAnswer1": "The smallest province by land area in Canada is Nova Scotia.",
+      "randomAnswer2": "The smallest province by land area in Canada is New Brunswick.",
+      "randomAnswer3": "The smallest province by land area in Canada is Newfoundland and Labrador."
+    },
+    {
+      "id": 33,
+      "question": "What is the name of Canada's national police force?",
+      "fact": "The national police force of Canada is the Royal Canadian Mounted Police (RCMP).",
+      "randomAnswer1": "The national police force of Canada is the Canadian Security Intelligence Service (CSIS).",
+      "randomAnswer2": "The national police force of Canada is the Canadian Border Services Agency (CBSA).",
+      "randomAnswer3": "The national police force of Canada is the Ontario Provincial Police (OPP)."
+    },
+    {
+      "id": 34,
+      "question": "What is the largest lake entirely within Canada?",
+      "fact": "The largest lake entirely within Canada is Great Bear Lake.",
+      "randomAnswer1": "The largest lake entirely within Canada is Lake Ontario.",
+      "randomAnswer2": "The largest lake entirely within Canada is Lake Superior.",
+      "randomAnswer3": "The largest lake entirely within Canada is Great Slave Lake."
+    },
+    {
+      "id": 35,
+      "question": "What is the name of the indigenous people of northern Canada?",
+      "fact": "The indigenous people of northern Canada are called the Inuit.",
+      "randomAnswer1": "The indigenous people of northern Canada are called the Métis.",
+      "randomAnswer2": "The indigenous people of northern Canada are called the Cree.",
+      "randomAnswer3": "The indigenous people of northern Canada are called the Haida."
+    },
+    {
+      "id": 36,
+      "question": "Which province is the only officially bilingual province in Canada?",
+      "fact": "The only officially bilingual province in Canada is New Brunswick.",
+      "randomAnswer1": "The only officially bilingual province in Canada is Quebec.",
+      "randomAnswer2": "The only officially bilingual province in Canada is Ontario.",
+      "randomAnswer3": "The only officially bilingual province in Canada is Manitoba."
+    },
+    {
+      "id": 37,
+      "question": "What is the highest waterfall in Canada?",
+      "fact": "The highest waterfall in Canada is Della Falls, located in British Columbia.",
+      "randomAnswer1": "The highest waterfall in Canada is Niagara Falls.",
+      "randomAnswer2": "The highest waterfall in Canada is Virginia Falls.",
+      "randomAnswer3": "The highest waterfall in Canada is Takakkaw Falls."
+    },
+    {
+      "id": 38,
+      "question": "Which Canadian province is known for its French-speaking majority?",
+      "fact": "Quebec is known for its French-speaking majority.",
+      "randomAnswer1": "Ontario is known for its French-speaking majority.",
+      "randomAnswer2": "New Brunswick is known for its French-speaking majority.",
+      "randomAnswer3": "Manitoba is known for its French-speaking majority."
+    },
+    {
+      "id": 39,
+      "question": "What is the name of the longest highway in Canada?",
+      "fact": "The longest highway in Canada is the Trans-Canada Highway.",
+      "randomAnswer1": "The longest highway in Canada is Highway 401.",
+      "randomAnswer2": "The longest highway in Canada is Yellowhead Highway.",
+      "randomAnswer3": "The longest highway in Canada is Icefields Parkway."
+    },
+    {
+      "id": 40,
+      "question": "Which Canadian city is known as the 'City of Festivals'?",
+      "fact": "Montreal is known as the 'City of Festivals'.",
+      "randomAnswer1": "Toronto is known as the 'City of Festivals'.",
+      "randomAnswer2": "Vancouver is known as the 'City of Festivals'.",
+      "randomAnswer3": "Calgary is known as the 'City of Festivals'."
+    },
+    {
+      "id": 41,
+      "question": "Which river forms part of the border between Ontario and the United States?",
+      "fact": "The St. Lawrence River forms part of the border between Ontario and the United States.",
+      "randomAnswer1": "The Ottawa River forms part of the border.",
+      "randomAnswer2": "The Fraser River forms part of the border.",
+      "randomAnswer3": "The Red River forms part of the border."
+    },
+    {
+      "id": 42,
+      "question": "What is the name of the Canadian province that joined Confederation last?",
+      "fact": "Newfoundland and Labrador was the last province to join Confederation, in 1949.",
+      "randomAnswer1": "Alberta was the last province to join Confederation.",
+      "randomAnswer2": "Manitoba was the last province to join Confederation.",
+      "randomAnswer3": "British Columbia was the last province to join Confederation."
+    },
+    {
+      "id": 43,
+      "question": "Which Canadian province is the leading producer of oil and gas?",
+      "fact": "Alberta is the leading producer of oil and gas in Canada.",
+      "randomAnswer1": "Saskatchewan is the leading producer of oil and gas.",
+      "randomAnswer2": "British Columbia is the leading producer of oil and gas.",
+      "randomAnswer3": "Ontario is the leading producer of oil and gas."
+    },
+    {
+      "id": 44,
+      "question": "What is the national anthem of Canada?",
+      "fact": "The national anthem of Canada is 'O Canada'.",
+      "randomAnswer1": "The national anthem of Canada is 'God Save the Queen'.",
+      "randomAnswer2": "The national anthem of Canada is 'The Maple Leaf Forever'.",
+      "randomAnswer3": "The national anthem of Canada is 'Land of the Free'."
+    },
+    {
+      "id": 45,
+      "question": "Which province is known as the 'Land of Living Skies'?",
+      "fact": "Saskatchewan is known as the 'Land of Living Skies'.",
+      "randomAnswer1": "Manitoba is known as the 'Land of Living Skies'.",
+      "randomAnswer2": "Alberta is known as the 'Land of Living Skies'.",
+      "randomAnswer3": "Quebec is known as the 'Land of Living Skies'."
+    },
+    {
+      "id": 46,
+      "question": "What is the name of Canada's national tree?",
+      "fact": "The national tree of Canada is the maple tree.",
+      "randomAnswer1": "The national tree of Canada is the oak tree.",
+      "randomAnswer2": "The national tree of Canada is the pine tree.",
+      "randomAnswer3": "The national tree of Canada is the spruce tree."
+    },
+    {
+      "id": 47,
+      "question": "Which Canadian city is known for its Stampede?",
+      "fact": "Calgary is known for its annual Stampede.",
+      "randomAnswer1": "Toronto is known for its annual Stampede.",
+      "randomAnswer2": "Vancouver is known for its annual Stampede.",
+      "randomAnswer3": "Edmonton is known for its annual Stampede."
+    },
+    {
+      "id": 48,
+      "question": "Which Canadian territory has the smallest population?",
+      "fact": "Nunavut has the smallest population of all Canadian territories.",
+      "randomAnswer1": "Yukon has the smallest population.",
+      "randomAnswer2": "Northwest Territories has the smallest population.",
+      "randomAnswer3": "Prince Edward Island has the smallest population."
+    },
+    {
+      "id": 49,
+      "question": "What is the largest island in Canada?",
+      "fact": "Baffin Island is the largest island in Canada.",
+      "randomAnswer1": "Vancouver Island is the largest island in Canada.",
+      "randomAnswer2": "Prince Edward Island is the largest island in Canada.",
+      "randomAnswer3": "Newfoundland is the largest island in Canada."
+    },
+    {
+      "id": 50,
+      "question": "What is the capital city of Canada?",
+      "fact": "The capital city of Canada is Ottawa.",
+      "randomAnswer1": "The capital city of Canada is Toronto.",
+      "randomAnswer2": "The capital city of Canada is Vancouver.",
+      "randomAnswer3": "The capital city of Canada is Montreal."
+    },
+    {
+      "id": 51,
+      "question": "Which country has the world's longest coastline?",
+      "fact": "Canada has the world's longest coastline, spanning over 243,042 kilometers.",
+      "randomAnswer1": "Australia has the world's longest coastline.",
+      "randomAnswer2": "United States has the world's longest coastline.",
+      "randomAnswer3": "Russia has the world's longest coastline."
+    },
+    {
+      "id": 52,
+      "question": "Who is the current monarch of Canada?",
+      "fact": "The current monarch of Canada is Charles III.",
+      "randomAnswer1": "The current monarch of Canada is Queen Elizabeth II.",
+      "randomAnswer2": "The current monarch of Canada is King George.",
+      "randomAnswer3": "The current monarch of Canada is Prince William."
+    },
+    {
+      "id": 53,
+      "question": "What is the national animal of Canada?",
+      "fact": "The national animal of Canada is the beaver.",
+      "randomAnswer1": "The national animal of Canada is the moose.",
+      "randomAnswer2": "The national animal of Canada is the bear.",
+      "randomAnswer3": "The national animal of Canada is the wolf."
+    },
+    {
+      "id": 54,
+      "question": "What is the official summer sport of Canada?",
+      "fact": "The official summer sport of Canada is lacrosse.",
+      "randomAnswer1": "The official summer sport of Canada is soccer.",
+      "randomAnswer2": "The official summer sport of Canada is baseball.",
+      "randomAnswer3": "The official summer sport of Canada is cricket."
+    },
+    {
+      "id": 55,
+      "question": "What is the highest mountain in Canada?",
+      "fact": "The highest mountain in Canada is Mount Logan.",
+      "randomAnswer1": "The highest mountain in Canada is Mount Robson.",
+      "randomAnswer2": "The highest mountain in Canada is Mount Columbia.",
+      "randomAnswer3": "The highest mountain in Canada is Mount Fairweather."
+    },
+    {
+      "id": 56,
+      "question": "Which province is known as the 'Breadbasket of Canada'?",
+      "fact": "The province known as the 'Breadbasket of Canada' is Saskatchewan.",
+      "randomAnswer1": "The province known as the 'Breadbasket of Canada' is Alberta.",
+      "randomAnswer2": "The province known as the 'Breadbasket of Canada' is Manitoba.",
+      "randomAnswer3": "The province known as the 'Breadbasket of Canada' is Ontario."
+    },
+    {
+      "id": 57,
+      "question": "What is the population of Canada as of 2024?",
+      "fact": "The population of Canada as of 2024 is estimated to be 41,288,599.",
+      "randomAnswer1": "The population of Canada is 35,000,000.",
+      "randomAnswer2": "The population of Canada is 50,000,000.",
+      "randomAnswer3": "The population of Canada is 60,000,000."
+    },
+    {
+      "id": 58,
+      "question": "Which Canadian city hosted the 2010 Winter Olympics?",
+      "fact": "Vancouver hosted the 2010 Winter Olympics.",
+      "randomAnswer1": "Toronto hosted the 2010 Winter Olympics.",
+      "randomAnswer2": "Montreal hosted the 2010 Winter Olympics.",
+      "randomAnswer3": "Calgary hosted the 2010 Winter Olympics."
+    },
+    {
+      "id": 59,
+      "question": "Which province is the largest by area in Canada?",
+      "fact": "The largest province by area in Canada is Quebec.",
+      "randomAnswer1": "The largest province by area in Canada is Ontario.",
+      "randomAnswer2": "The largest province by area in Canada is British Columbia.",
+      "randomAnswer3": "The largest province by area in Canada is Alberta."
+    },
+    {
+      "id": 60,
+      "question": "What is the national motto of Canada?",
+      "fact": "The national motto of Canada is 'A mari usque ad mare', which means 'From Sea to Sea'.",
+      "randomAnswer1": "The national motto of Canada is 'Unity in Diversity'.",
+      "randomAnswer2": "The national motto of Canada is 'Strength from Coast to Coast'.",
+      "randomAnswer3": "The national motto of Canada is 'In God We Trust'."
+    },
+    {
+      "id": 61,
+      "question": "Which ocean borders Canada to the west?",
+      "fact": "The Pacific Ocean borders Canada to the west.",
+      "randomAnswer1": "The Atlantic Ocean borders Canada to the west.",
+      "randomAnswer2": "The Arctic Ocean borders Canada to the west.",
+      "randomAnswer3": "The Indian Ocean borders Canada to the west."
+    },
+    {
+      "id": 62,
+      "question": "Which province is the smallest by land area in Canada?",
+      "fact": "The smallest province by land area in Canada is Prince Edward Island.",
+      "randomAnswer1": "The smallest province by land area in Canada is Nova Scotia.",
+      "randomAnswer2": "The smallest province by land area in Canada is New Brunswick.",
+      "randomAnswer3": "The smallest province by land area in Canada is Newfoundland and Labrador."
+    },
+    {
+      "id": 63,
+      "question": "What is the name of Canada's national police force?",
+      "fact": "The national police force of Canada is the Royal Canadian Mounted Police (RCMP).",
+      "randomAnswer1": "The national police force of Canada is the Canadian Security Intelligence Service (CSIS).",
+      "randomAnswer2": "The national police force of Canada is the Canadian Border Services Agency (CBSA).",
+      "randomAnswer3": "The national police force of Canada is the Ontario Provincial Police (OPP)."
+    },
+    {
+      "id": 64,
+      "question": "What is the largest lake entirely within Canada?",
+      "fact": "The largest lake entirely within Canada is Great Bear Lake.",
+      "randomAnswer1": "The largest lake entirely within Canada is Lake Ontario.",
+      "randomAnswer2": "The largest lake entirely within Canada is Lake Superior.",
+      "randomAnswer3": "The largest lake entirely within Canada is Great Slave Lake."
+    },
+    {
+      "id": 65,
+      "question": "What is the name of the indigenous people of northern Canada?",
+      "fact": "The indigenous people of northern Canada are called the Inuit.",
+      "randomAnswer1": "The indigenous people of northern Canada are called the Métis.",
+      "randomAnswer2": "The indigenous people of northern Canada are called the Cree.",
+      "randomAnswer3": "The indigenous people of northern Canada are called the Haida."
+    },
+    {
+      "id": 66,
+      "question": "Which province is the only officially bilingual province in Canada?",
+      "fact": "The only officially bilingual province in Canada is New Brunswick.",
+      "randomAnswer1": "The only officially bilingual province in Canada is Quebec.",
+      "randomAnswer2": "The only officially bilingual province in Canada is Ontario.",
+      "randomAnswer3": "The only officially bilingual province in Canada is Manitoba."
+    },
+    {
+      "id": 67,
+      "question": "What is the highest waterfall in Canada?",
+      "fact": "The highest waterfall in Canada is Della Falls, located in British Columbia.",
+      "randomAnswer1": "The highest waterfall in Canada is Niagara Falls.",
+      "randomAnswer2": "The highest waterfall in Canada is Virginia Falls.",
+      "randomAnswer3": "The highest waterfall in Canada is Takakkaw Falls."
+    },
+    {
+      "id": 68,
+      "question": "Which Canadian province is known for its French-speaking majority?",
+      "fact": "Quebec is known for its French-speaking majority.",
+      "randomAnswer1": "Ontario is known for its French-speaking majority.",
+      "randomAnswer2": "New Brunswick is known for its French-speaking majority.",
+      "randomAnswer3": "Manitoba is known for its French-speaking majority."
+    },
+    {
+      "id": 69,
+      "question": "What is the name of the longest highway in Canada?",
+      "fact": "The longest highway in Canada is the Trans-Canada Highway.",
+      "randomAnswer1": "The longest highway in Canada is Highway 401.",
+      "randomAnswer2": "The longest highway in Canada is Yellowhead Highway.",
+      "randomAnswer3": "The longest highway in Canada is Icefields Parkway."
+    },
+    {
+      "id": 70,
+      "question": "Which Canadian city is known as the 'City of Festivals'?",
+      "fact": "Montreal is known as the 'City of Festivals'.",
+      "randomAnswer1": "Toronto is known as the 'City of Festivals'.",
+      "randomAnswer2": "Vancouver is known as the 'City of Festivals'.",
+      "randomAnswer3": "Calgary is known as the 'City of Festivals'."
+    },
+    {
+      "id": 71,
+      "question": "Which river forms part of the border between Ontario and the United States?",
+      "fact": "The St. Lawrence River forms part of the border between Ontario and the United States.",
+      "randomAnswer1": "The Ottawa River forms part of the border.",
+      "randomAnswer2": "The Fraser River forms part of the border.",
+      "randomAnswer3": "The Red River forms part of the border."
+    },
+    {
+      "id": 72,
+      "question": "What is the name of the Canadian province that joined Confederation last?",
+      "fact": "Newfoundland and Labrador was the last province to join Confederation, in 1949.",
+      "randomAnswer1": "Alberta was the last province to join Confederation.",
+      "randomAnswer2": "Manitoba was the last province to join Confederation.",
+      "randomAnswer3": "British Columbia was the last province to join Confederation."
+    },
+    {
+      "id": 73,
+      "question": "Which Canadian province is the leading producer of oil and gas?",
+      "fact": "Alberta is the leading producer of oil and gas in Canada.",
+      "randomAnswer1": "Saskatchewan is the leading producer of oil and gas.",
+      "randomAnswer2": "British Columbia is the leading producer of oil and gas.",
+      "randomAnswer3": "Ontario is the leading producer of oil and gas."
+    },
+    {
+      "id": 74,
+      "question": "What is the national anthem of Canada?",
+      "fact": "The national anthem of Canada is 'O Canada'.",
+      "randomAnswer1": "The national anthem of Canada is 'God Save the Queen'.",
+      "randomAnswer2": "The national anthem of Canada is 'The Maple Leaf Forever'.",
+      "randomAnswer3": "The national anthem of Canada is 'Land of the Free'."
+    },
+        {
+          "id": 75,
+          "question": "Who was the first European to explore the east coast of Canada?",
+          "fact": "The first documented European to explore the east coast of Canada was Norse explorer Leif Erikson.",
+          "randomAnswer1": "The first documented European to explore the east coast of Canada was Christopher Columbus.",
+          "randomAnswer2": "The first documented European to explore the east coast of Canada was Samuel de Champlain.",
+          "randomAnswer3": "The first documented European to explore the east coast of Canada was John Cabot."
+        },
+        {
+          "id": 76,
+          "question": "Which European country founded St John's, Newfoundland, as the first North American English seasonal camp?",
+          "fact": "St John's, Newfoundland, was founded by Sir Humphrey Gilbert by the royal prerogative of Queen Elizabeth I.",
+          "randomAnswer1": "St John's, Newfoundland, was founded by Jacques Cartier.",
+          "randomAnswer2": "St John's, Newfoundland, was founded by Samuel de Champlain.",
+          "randomAnswer3": "St John's, Newfoundland, was founded by John Cabot."
+        },
+        {
+          "id": 77,
+          "question": "When did Confederation officially proclaim Canadian Confederation?",
+          "fact": "Canadian Confederation was officially proclaimed on July 1, 1867.",
+          "randomAnswer1": "Canadian Confederation was officially proclaimed on June 1, 1867.",
+          "randomAnswer2": "Canadian Confederation was officially proclaimed on August 1, 1867.",
+          "randomAnswer3": "Canadian Confederation was officially proclaimed on May 1, 1867."
+        },
+        {
+          "id": 78,
+          "question": "Which indigenous people primarily inhabit the northern region of Canada?",
+          "fact": "The Inuit are the indigenous people who primarily inhabit the northern region of Canada.",
+          "randomAnswer1": "The Cree primarily inhabit the northern region of Canada.",
+          "randomAnswer2": "The Haida primarily inhabit the northern region of Canada.",
+          "randomAnswer3": "The Métis primarily inhabit the northern region of Canada."
+        },
+        {
+          "id": 79,
+          "question": "Which explorer claimed the Gulf of Saint Lawrence in the name of France in 1534?",
+          "fact": "French explorer Jacques Cartier claimed the Gulf of Saint Lawrence in the name of France in 1534.",
+          "randomAnswer1": "John Cabot claimed the Gulf of Saint Lawrence in the name of France in 1534.",
+          "randomAnswer2": "Samuel de Champlain claimed the Gulf of Saint Lawrence in the name of France in 1534.",
+          "randomAnswer3": "Leif Erikson claimed the Gulf of Saint Lawrence in the name of France in 1534."
+        },
+        {
+          "id": 80,
+          "question": "What was the purpose of the Dominion Lands Act?",
+          "fact": "The Dominion Lands Act was passed to regulate settlement and establish the North-West Mounted Police to assert authority over Canadian territories.",
+          "randomAnswer1": "The Dominion Lands Act was passed to declare independence from Britain.",
+          "randomAnswer2": "The Dominion Lands Act was passed to provide military aid to allies.",
+          "randomAnswer3": "The Dominion Lands Act was passed to promote industrial development."
+        },
+        {
+          "id": 81,
+          "question": "Who is credited with founding the first permanent French settlement in Canada in 1603?",
+          "fact": "French explorer Samuel de Champlain is credited with founding the first permanent French settlement in Canada in 1603.",
+          "randomAnswer1": "Jacques Cartier is credited with founding the first permanent French settlement in Canada in 1603.",
+          "randomAnswer2": "John Cabot is credited with founding the first permanent French settlement in Canada in 1603.",
+          "randomAnswer3": "Leif Erikson is credited with founding the first permanent French settlement in Canada in 1603."
+        },
+        {
+          "id": 82,
+          "question": "Which act merged Upper and Lower Canada into a united Province of Canada?",
+          "fact": "The Act of Union 1840 merged Upper and Lower Canada into a united Province of Canada.",
+          "randomAnswer1": "The Quebec Act merged Upper and Lower Canada into a united Province of Canada.",
+          "randomAnswer2": "The Canada Act merged Upper and Lower Canada into a united Province of Canada.",
+          "randomAnswer3": "The Confederation Act merged Upper and Lower Canada into a united Province of Canada."
+        },
+        {
+          "id": 83,
+          "question": "Which territory was created during the Klondike Gold Rush in 1898?",
+          "fact": "The Yukon Territory was created during the Klondike Gold Rush in 1898.",
+          "randomAnswer1": "The Northwest Territories were created during the Klondike Gold Rush in 1898.",
+          "randomAnswer2": "Nunavut was created during the Klondike Gold Rush in 1898.",
+          "randomAnswer3": "British Columbia was created during the Klondike Gold Rush in 1898."
+        },
+        {
+          "id": 84,
+          "question": "Which event marked the official beginning of Canadian Confederation?",
+          "fact": "The British North America Act, 1867, marked the official beginning of Canadian Confederation.",
+          "randomAnswer1": "The Act of Union 1840 marked the official beginning of Canadian Confederation.",
+          "randomAnswer2": "The Meech Lake Accord marked the official beginning of Canadian Confederation.",
+          "randomAnswer3": "The Canada Act 1982 marked the official beginning of Canadian Confederation."
+        },
+            {
+              "id": 85,
+              "question": "When was Canadian Confederation officially established?",
+              "fact": "Canadian Confederation was officially established on July 1, 1867.",
+              "randomAnswer1": "Canadian Confederation was officially established on July 1, 1887.",
+              "randomAnswer2": "Canadian Confederation was officially established on January 1, 1867.",
+              "randomAnswer3": "Canadian Confederation was officially established on December 25, 1867."
+            },
+            {
+              "id": 86,
+              "question": "Who was the first Prime Minister of Canada?",
+              "fact": "The first Prime Minister of Canada was Sir John A. Macdonald.",
+              "randomAnswer1": "The first Prime Minister of Canada was Alexander Mackenzie.",
+              "randomAnswer2": "The first Prime Minister of Canada was Wilfrid Laurier.",
+              "randomAnswer3": "The first Prime Minister of Canada was Robert Borden."
+            },
+            {
+              "id": 87,
+              "question": "Which major event in 1970 is known as the October Crisis?",
+              "fact": "The October Crisis in 1970 was marked by the kidnapping of a British diplomat and a provincial minister by the FLQ.",
+              "randomAnswer1": "The October Crisis in 1970 was marked by mass protests in Ottawa.",
+              "randomAnswer2": "The October Crisis in 1970 was a labor strike in Quebec.",
+              "randomAnswer3": "The October Crisis in 1970 was the independence referendum in Quebec."
+            },
+            {
+              "id": 88,
+              "question": "When did Newfoundland join Canada as a province?",
+              "fact": "Newfoundland joined Canada as a province in 1949.",
+              "randomAnswer1": "Newfoundland joined Canada as a province in 1939.",
+              "randomAnswer2": "Newfoundland joined Canada as a province in 1959.",
+              "randomAnswer3": "Newfoundland joined Canada as a province in 1969."
+            },
+            {
+              "id": 89,
+              "question": "Which act brought Canada's constitution under full Canadian control?",
+              "fact": "The Canada Act of 1982 brought Canada's constitution under full Canadian control.",
+              "randomAnswer1": "The British North America Act brought Canada's constitution under full Canadian control.",
+              "randomAnswer2": "The Meech Lake Accord brought Canada's constitution under full Canadian control.",
+              "randomAnswer3": "The Quebec Act brought Canada's constitution under full Canadian control."
+            },
+            {
+              "id": 90,
+              "question": "Which war saw over a million Canadians serve in the armed forces?",
+              "fact": "Over a million Canadians served in the armed forces during the Second World War.",
+              "randomAnswer1": "Over a million Canadians served in the armed forces during the First World War.",
+              "randomAnswer2": "Over a million Canadians served in the armed forces during the Korean War.",
+              "randomAnswer3": "Over a million Canadians served in the armed forces during the Vietnam War."
+            },
+            {
+              "id": 91,
+              "question": "Which indigenous protest is known as the Oka Crisis?",
+              "fact": "The Oka Crisis of 1990 was a standoff between Mohawk protesters and the government over disputed land.",
+              "randomAnswer1": "The Oka Crisis was a protest about fishing rights.",
+              "randomAnswer2": "The Oka Crisis was a protest about oil drilling.",
+              "randomAnswer3": "The Oka Crisis was a protest about uranium mining."
+            },
+            {
+              "id": 92,
+              "question": "What was a key outcome of the Meech Lake Accord?",
+              "fact": "The Meech Lake Accord aimed to gain Quebec's consent to the revised Canadian Constitution.",
+              "randomAnswer1": "The Meech Lake Accord was about free trade agreements with the United States.",
+              "randomAnswer2": "The Meech Lake Accord dealt with indigenous land rights.",
+              "randomAnswer3": "The Meech Lake Accord focused on women's suffrage."
+            },
+            {
+              "id": 93,
+              "question": "Which political party formed in response to Quebec's nationalism in the 1990s?",
+              "fact": "The Bloc Québécois formed in response to Quebec's nationalism in the 1990s.",
+              "randomAnswer1": "The Liberal Party formed in response to Quebec's nationalism.",
+              "randomAnswer2": "The Conservative Party formed in response to Quebec's nationalism.",
+              "randomAnswer3": "The Green Party formed in response to Quebec's nationalism."
+            },
+            {
+              "id": 94,
+              "question": "When was the Canadian Charter of Rights and Freedoms enacted?",
+              "fact": "The Canadian Charter of Rights and Freedoms was enacted in 1982.",
+              "randomAnswer1": "The Canadian Charter of Rights and Freedoms was enacted in 1965.",
+              "randomAnswer2": "The Canadian Charter of Rights and Freedoms was enacted in 1971.",
+              "randomAnswer3": "The Canadian Charter of Rights and Freedoms was enacted in 1990."
+            },
+                {
+                  "id": 95,
+                  "question": "What major event led Newfoundland to join Canada in 1949?",
+                  "fact": "The Great Depression led Newfoundland to relinquish responsible government and join Canada as a province in 1949.",
+                  "randomAnswer1": "The Canadian Confederation Agreement led Newfoundland to join Canada in 1949.",
+                  "randomAnswer2": "World War II forced Newfoundland to join Canada in 1949.",
+                  "randomAnswer3": "An economic boom led Newfoundland to join Canada in 1949."
+                },
+                {
+                  "id": 96,
+                  "question": "What significant battle did Canadian troops participate in during World War II?",
+                  "fact": "Canadian troops played a substantial role in the Battle of Vimy Ridge during World War II.",
+                  "randomAnswer1": "Canadian troops played a substantial role in the Battle of Dunkirk.",
+                  "randomAnswer2": "Canadian troops played a substantial role in the Battle of the Bulge.",
+                  "randomAnswer3": "Canadian troops played a substantial role in the Battle of Berlin."
+                },
+                {
+                  "id": 97,
+                  "question": "What was the Quiet Revolution in Quebec?",
+                  "fact": "The Quiet Revolution was a period of profound social and economic changes in Quebec during the 1960s.",
+                  "randomAnswer1": "The Quiet Revolution was the campaign for Quebec independence in the 1980s.",
+                  "randomAnswer2": "The Quiet Revolution was an economic crisis in Quebec in the 1970s.",
+                  "randomAnswer3": "The Quiet Revolution was a peaceful protest for civil rights in the 1950s."
+                },
+                {
+                  "id": 98,
+                  "question": "What was the October Crisis of 1970 in Quebec?",
+                  "fact": "The October Crisis was ignited by the radical Front de libération du Québec with bombings and kidnappings.",
+                  "randomAnswer1": "The October Crisis was a response to a major power outage across Quebec.",
+                  "randomAnswer2": "The October Crisis was a civil protest against rising taxes in Quebec.",
+                  "randomAnswer3": "The October Crisis involved peaceful marches demanding Quebec sovereignty."
+                },
+                {
+                  "id": 99,
+                  "question": "What is the Meech Lake Accord of 1990 known for?",
+                  "fact": "The Meech Lake Accord was an attempt to accommodate Quebec nationalism but ultimately failed.",
+                  "randomAnswer1": "The Meech Lake Accord was a trade agreement between Canada and the United States.",
+                  "randomAnswer2": "The Meech Lake Accord was an immigration policy reform in Canada.",
+                  "randomAnswer3": "The Meech Lake Accord was an environmental protection agreement."
+                },
+                {
+                  "id": 100,
+                  "question": "Which Canadian political party formed in response to failed constitutional changes in Quebec?",
+                  "fact": "The Bloc Québécois formed in Quebec following the failed Meech Lake Accord in 1990.",
+                  "randomAnswer1": "The Reform Party formed in Quebec after the Meech Lake Accord.",
+                  "randomAnswer2": "The Liberal Party formed in Quebec following the constitutional changes.",
+                  "randomAnswer3": "The New Democratic Party was formed in Quebec as a response to constitutional changes."
+                },
+                {
+                  "id": 101,
+                  "question": "What was the Oka Crisis of 1990 about?",
+                  "fact": "The Oka Crisis of 1990 was a violent confrontation between the provincial government and Indigenous groups.",
+                  "randomAnswer1": "The Oka Crisis was about a dispute over fishing rights in Quebec.",
+                  "randomAnswer2": "The Oka Crisis was about an environmental protest against deforestation.",
+                  "randomAnswer3": "The Oka Crisis was a student protest for better education funding."
+                },
+                {
+                  "id": 102,
+                  "question": "What major terrorist act occurred in Canada in 1985?",
+                  "fact": "The explosion of Air India Flight 182 in 1985 was the largest mass murder in Canadian history.",
+                  "randomAnswer1": "The 1985 bombing of Montreal City Hall was the largest mass murder in Canadian history.",
+                  "randomAnswer2": "The 1985 attack on Ottawa's Parliament Hill was the largest mass murder in Canadian history.",
+                  "randomAnswer3": "The bombing of Toronto Pearson Airport in 1985 was the largest mass murder in Canadian history."
+                },
+                {
+                  "id": 103,
+                  "question": "When did the Statute of Westminster affirm Canada's independence?",
+                  "fact": "The Statute of Westminster, 1931, affirmed Canada's independence.",
+                  "randomAnswer1": "The Statute of Westminster, 1925, affirmed Canada's independence.",
+                  "randomAnswer2": "The Statute of Westminster, 1945, affirmed Canada's independence.",
+                  "randomAnswer3": "The Statute of Westminster, 1951, affirmed Canada's independence."
+                },
+                {
+                  "id": 104,
+                  "question": "Who played a major role in establishing Canada's welfare state during the 1940s and 1950s?",
+                  "fact": "Tommy Douglas played a major role in establishing Canada's welfare state.",
+                  "randomAnswer1": "William Lyon Mackenzie King played a major role in establishing Canada's welfare state.",
+                  "randomAnswer2": "Pierre Trudeau played a major role in establishing Canada's welfare state.",
+                  "randomAnswer3": "John Diefenbaker played a major role in establishing Canada's welfare state."
+                },
+                {
+                  "id": 105,
+                  "question": "What significant action did Canada take in 1919 related to international relations?",
+                  "fact": "In 1919, Canada joined the League of Nations independently of Britain.",
+                  "randomAnswer1": "In 1919, Canada joined the United Nations independently of Britain.",
+                  "randomAnswer2": "In 1919, Canada joined the North Atlantic Treaty Organization (NATO) independently.",
+                  "randomAnswer3": "In 1919, Canada joined the International Monetary Fund independently."
+                },
+                {
+                  "id": 106,
+                  "question": "When was the Canadian Charter of Rights and Freedoms established?",
+                  "fact": "The Canadian Charter of Rights and Freedoms was established in 1982.",
+                  "randomAnswer1": "The Canadian Charter of Rights and Freedoms was established in 1972.",
+                  "randomAnswer2": "The Canadian Charter of Rights and Freedoms was established in 1992.",
+                  "randomAnswer3": "The Canadian Charter of Rights and Freedoms was established in 1962."
+                },
+                {
+                  "id": 107,
+                  "question": "What year did the financial crisis of the Great Depression impact Newfoundland?",
+                  "fact": "The financial crisis of the Great Depression led Newfoundland to become a Crown colony ruled by a British governor in 1934.",
+                  "randomAnswer1": "The financial crisis of the Great Depression led Newfoundland to become part of Canada in 1924.",
+                  "randomAnswer2": "The financial crisis of the Great Depression led Newfoundland to declare independence in 1930.",
+                  "randomAnswer3": "The financial crisis of the Great Depression led Newfoundland to form a coalition government in 1940."
+                },
+                {
+                  "id": 108,
+                  "question": "What is the Canada Act of 1982 known for?",
+                  "fact": "The Canada Act of 1982 brought the Constitution of Canada fully under Canadian control.",
+                  "randomAnswer1": "The Canada Act of 1982 established Canada's national anthem.",
+                  "randomAnswer2": "The Canada Act of 1982 abolished the monarchy in Canada.",
+                  "randomAnswer3": "The Canada Act of 1982 created Canada's healthcare system."
+                },
+                {
+                  "id": 109,
+                  "question": "What year did Nunavut become Canada's third territory?",
+                  "fact": "In 1999, Nunavut became Canada's third territory.",
+                  "randomAnswer1": "In 1989, Nunavut became Canada's third territory.",
+                  "randomAnswer2": "In 2009, Nunavut became Canada's third territory.",
+                  "randomAnswer3": "In 1979, Nunavut became Canada's third territory."
+                },
+                {
+                  "id": 110,
+                  "question": "What major event led Newfoundland to join Canada in 1949?",
+                  "fact": "The Great Depression led Newfoundland to relinquish responsible government and join Canada as a province in 1949.",
+                  "randomAnswer1": "The Canadian Confederation Agreement led Newfoundland to join Canada in 1949.",
+                  "randomAnswer2": "World War II forced Newfoundland to join Canada in 1949.",
+                  "randomAnswer3": "An economic boom led Newfoundland to join Canada in 1949."
+                }  
+                        
+
+  ]
+}
