@@ -19,3 +19,8 @@ Canadian History Trivia Q&A is an engaging and educational game designed to test
 - **Interactive Learning**: The game provides an interactive way to learn, making it more engaging than traditional methods.
 
 Start playing now and discover fascinating facts about Canadian history!
+
+
+
+
+
