@@ -2,6 +2,7 @@
   "name": "triviagame",
   "version": "0.1.0",
   "private": true,
+  "author": "Freddy Bihozagara",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
