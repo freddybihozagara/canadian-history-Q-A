@@ -1,6 +1,6 @@
+# Project Information
 
-
-  "name": "canadian-history-Q&A",
-  "version": "0.1.0",
-  "author": "Freddy Bihozagara",
-  "associates": "Ai (copilot)"
+- **Name**: Canadian History Q&A
+- **Version**: 0.1.0
+- **Author**: Freddy Bihozagara
+- **Associates**: AI (GitHub Copilot)
