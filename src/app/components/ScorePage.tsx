@@ -12,7 +12,7 @@ const ScorePage: React.FC<ScorePageProps> = ({ score, totalQuestions }) => {
     <div className="score-page">
       <h2>Quiz Progress</h2>
       <p>
-        Your current score is: {score} out of {totalQuestions * 1000} points
+        Your current score is: {score} out of {(totalQuestions * 1000) + 10000} points
       </p>
     </div>
   );
