@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { Fact } from '../utils/types';
 import dynamic from 'next/dynamic';
 import '../../style/water.css';
+import AskAI from '../askAi/page';
 
 // Dynamically import LeafletMap to disable SSR
 const MapWithNoSSR = dynamic(() => import('./LeafletMap').catch((error) => {
@@ -103,7 +104,7 @@ const TriviaQuestion: React.FC<TriviaQuestionProps> = ({ question, onAnswer }) =
 
       {/* Show green checkmark when the answer is correct */}
       {showCheckmark && (
-        <div className="checkmark">
+        <div className="checkmark" style={{ fontSize: '24px', color: 'green' }}> 
           ✅ Correct!
         </div>
       )}
@@ -119,11 +120,14 @@ const TriviaQuestion: React.FC<TriviaQuestionProps> = ({ question, onAnswer }) =
       <button onClick={toggleShowAnswer} className="show-answer-button">
         {showAnswer ? 'Hide Answer' : 'Show Answer'}
       </button>
-
+      {/* Removed the stray comment line */}
+      
       {/* Display Answer */}
       {showAnswer && (
         <p className="answer-display">Correct Answer: {question.fact}</p>
       )}
+
+      <AskAI/> {/* Pass the question to AskAI component */}
 
       {/* Interactive Map (loaded without SSR) */}
       <div className="map-container">
