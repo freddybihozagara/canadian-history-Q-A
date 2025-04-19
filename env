@@ -1,0 +1,4 @@
+// .env
+// This file contains environment variables for the application.
+// Make sure to replace the placeholder values with your actual API keys and secrets.
+YOUR_API_KEY=your_actual_api_key_here
