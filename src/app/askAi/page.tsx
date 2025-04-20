@@ -15,7 +15,7 @@ export default function AskAI() {
       const timer = setTimeout(() => {
         setShowResponse(false);
         setResponse("");
-      }, 6000); // 120 seconds = 2 minutes
+      }, 120000); // 120 seconds = 2 minutes
 
       return () => clearTimeout(timer);
     }
@@ -66,7 +66,14 @@ export default function AskAI() {
           disabled={isLoading || !input}
           className="w-full bg-blue-500 text-white p-2 rounded-md hover:bg-blue-600 disabled:bg-gray-400"
         >
-          {isLoading ? "Processing..." : "Ask AI"}
+          {isLoading ? "Processing..." : <img
+          src="http://localhost:3000/api/images/04192025020927.png"
+          alt="ai icon"
+          width={40}
+          height={40}
+          className="w-32 h-32 mx-auto mb-4"
+          style={{ marginLeft: "20px", marginRight: "20px", marginTop: "1px", marginBottom: "1px" }}
+        />}
         </button>
         
         {showResponse && response && (
