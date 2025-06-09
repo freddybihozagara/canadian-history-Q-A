@@ -1,11 +1,11 @@
 # Canadian History Q&A
 
 ## Demo Video
-[Watch the demo video](https://drive.google.com/file/d/1CP_9OiDFRz0f_pJZ2roBJIEhqtxC7jEK/view?usp=drive_link)
+[Watch the demo video](https://youtu.be/XkJxQrnT3V8?feature=shared)
 
 <!-- For embedding the video directly in the README (if supported by the platform) -->
 <video width="720" height="480" controls>
-  <source src="http://localhost:3000/api/videos/20250609014424.mp4" type="video/mp4">
+  <source src="https://youtu.be/XkJxQrnT3V8?feature=shared" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -30,11 +30,11 @@ Canadian History Trivia Q&A is an engaging and educational game designed to test
 - **Interactive Learning**: The game provides an interactive way to learn, making it more engaging than traditional methods.
 
 ## Demo Video
-[Watch the demo video](https://drive.google.com/file/d/1CP_9OiDFRz0f_pJZ2roBJIEhqtxC7jEK/view?usp=drive_link)
+[Watch the demo video](https://youtu.be/XkJxQrnT3V8?feature=shared)
 
 <!-- For embedding the video directly in the README (if supported by the platform) -->
 <video width="720" height="480" controls>
-  <source src="http://localhost:3000/api/videos/20250609014424.mp4" type="video/mp4">
+  <source src="https://youtu.be/XkJxQrnT3V8?feature=shared" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
