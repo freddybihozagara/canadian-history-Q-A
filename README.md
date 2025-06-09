@@ -1,7 +1,7 @@
 # Canadian History Q&A
 
 ## Demo Video
-[Watch the demo video](http://localhost:3000/api/videos/20250609014424.mp4)
+[Watch the demo video](https://drive.google.com/file/d/1CP_9OiDFRz0f_pJZ2roBJIEhqtxC7jEK/view?usp=drive_link)
 
 <!-- For embedding the video directly in the README (if supported by the platform) -->
 <video width="720" height="480" controls>
@@ -30,7 +30,7 @@ Canadian History Trivia Q&A is an engaging and educational game designed to test
 - **Interactive Learning**: The game provides an interactive way to learn, making it more engaging than traditional methods.
 
 ## Demo Video
-[Watch the demo video](http://localhost:3000/api/videos/20250609014424.mp4)
+[Watch the demo video](https://drive.google.com/file/d/1CP_9OiDFRz0f_pJZ2roBJIEhqtxC7jEK/view?usp=drive_link)
 
 <!-- For embedding the video directly in the README (if supported by the platform) -->
 <video width="720" height="480" controls>
