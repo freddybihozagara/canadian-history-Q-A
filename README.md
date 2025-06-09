@@ -3,7 +3,7 @@
 Here are some screenshots of the application in action:
 
 ![Canadian History Q&A Game Interface](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609062529.png)
-*Game interface showing a trivia question about Canada's national anthem*
+*Game interface showing a Q&A question about Canada's indigenous peoples*
 
 ![Project Structure in VS Code](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609063640.png)
 *Project structure and development environment in Visual Studio Code*
