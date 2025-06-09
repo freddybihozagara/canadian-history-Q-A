@@ -1,5 +1,14 @@
 # Canadian History Q&A
 
+Here are some screenshots of the application in action:
+
+![Canadian History Q&A Game Interface](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609062529.png)
+*Game interface showing a trivia question about Canada's national anthem*
+
+![Project Structure in VS Code](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609063640.png)
+*Project structure and development environment in Visual Studio Code*
+
+
 ## Demo Video
 [Watch the demo video](https://youtu.be/XkJxQrnT3V8?feature=shared)
 
@@ -10,15 +19,6 @@
 </video>
 
 Start playing now and discover fascinating facts about Canadian history!
-
-## Screenshots
-Here are some screenshots of the application in action:
-
-![Canadian History Q&A Game Interface](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609062529.png)
-*Game interface showing a trivia question about Canada's national anthem*
-
-![Project Structure in VS Code](https://github.com/freddybihozagara/canadian-history-Q-A/blob/master/public/api/images/20250609063640.png)
-*Project structure and development environment in Visual Studio Code*
 
 
 ## About the Game
