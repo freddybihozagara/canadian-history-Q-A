@@ -40,6 +40,15 @@ Canadian History Trivia Q&A is an engaging and educational game designed to test
 
 Start playing now and discover fascinating facts about Canadian history!
 
+## Screenshots
+Here are some screenshots of the application in action:
+
+![Canadian History Q&A Game Interface](./images/game-interface.png)
+*Game interface showing a trivia question about Canada's national anthem*
+
+![Project Structure in VS Code](./images/project-structure.png)
+*Project structure and development environment in Visual Studio Code*
+
 
 
 
