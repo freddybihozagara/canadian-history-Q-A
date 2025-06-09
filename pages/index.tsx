@@ -63,7 +63,7 @@ interface HomeProps {
     return (
       <div className="app">
         <HeaderImage />
-        <h1>Canadian History Trivia Q&A</h1>
+        <h1>Canadian History Q&A</h1>
         <ScorePage score={score} totalQuestions={facts.length} />
         {currentQuestionIndex === null ? (
           <LandingPage onStart={startQuiz} />

@@ -15,7 +15,7 @@ export default function AskAI() {
       const timer = setTimeout(() => {
         setShowResponse(false);
         setResponse("");
-      }, 120000); // 120 seconds = 2 minutes
+      }, 120000);
 
       return () => clearTimeout(timer);
     }
@@ -50,7 +50,7 @@ export default function AskAI() {
           className="w-32 h-32 mx-auto mb-4"
           style={{ marginLeft: "20px", marginRight: "20px" }}
         />
-        Ask AI about Canadian History
+        Ask Gemini..
           </h1>
         
         
