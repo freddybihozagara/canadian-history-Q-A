@@ -1,5 +1,16 @@
 # Canadian History Q&A
 
+## Demo Video
+[Watch the demo video](http://localhost:3000/api/videos/20250609014424.mp4)
+
+<!-- For embedding the video directly in the README (if supported by the platform) -->
+<video width="720" height="480" controls>
+  <source src="http://localhost:3000/api/videos/20250609014424.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Start playing now and discover fascinating facts about Canadian history!
+
 ## About the Game
 Canadian History Trivia Q&A is an engaging and educational game designed to test your knowledge of Canadian history. The game presents you with multiple-choice questions, and your goal is to answer them correctly to earn points.
 
